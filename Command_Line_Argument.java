@@ -9,7 +9,5 @@ public class Command_Line_Argument
      String ans = (a > b ) ?  "A is greater" : "B is greater";
 	 
 	 System.out.println(ans);
-
-	
    }
 }
