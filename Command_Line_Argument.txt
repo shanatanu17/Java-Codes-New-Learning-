@@ -1,0 +1,13 @@
+public class Command_Line_Argument
+{
+  public static void main(String s[])
+   { 
+     int a  = s[0];
+     int b = s[1];
+
+
+     String ans = (a > b ) ?  "A is greater" : "B is greater";
+
+	
+   }
+}
